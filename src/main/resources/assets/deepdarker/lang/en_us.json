@@ -1,0 +1,30 @@
+{
+  "itemGroup.deepdarker.deepdarker_item_group": "Deep Darker",
+
+  "item.deepdarker.sculk_soul_bottle": "Sculk Soul Bottle",
+  "item.deepdarker.potato_battery": "Potato Battery",
+  "item.deepdarker.charged_potato_battery": "Charged Potato Battery",
+
+  "block.deepdarker.sculk_infestor": "Sculk Infestor",
+
+  "block.deepdarker.copper_infuser": "Copper Infuser",
+  "block.deepdarker.exposed_copper_infuser": "Exposed Copper Infuser",
+  "block.deepdarker.weathered_copper_infuser": "Weathered Copper Infuser",
+  "block.deepdarker.oxidized_copper_infuser": "Oxidized Copper Infuser",
+
+  "block.deepdarker.sculk_planks" : "Sculk Planks",
+  "block.deepdarker.sculk_log": "Sculk Log",
+  "block.deepdarker.stripped_sculk_log": "Stripped Sculk Log",
+  "block.deepdarker.sculk_wood" : "Sculk Wood",
+  "block.deepdarker.stripped_sculk_wood" : "Stripped Sculk Wood",
+  "block.deepdarker.sculk_stair": "Sculk Stair",
+  "block.deepdarker.sculk_door": "Sculk Door",
+  "block.deepdarker.sculk_pressure_plate" : "Sculk Pressure Plate",
+  "block.deepdarker.sculk_fence": "Sculk Fence",
+  "block.deepdarker.sculk_trapdoor" : "Sculk Trapdoor",
+  "block.deepdarker.sculk_fence_gate": "Sculk Fence Gate",
+  "block.deepdarker.sculk_button": "Sculk Button",
+  "block.deepdarker.sculk_slab": "Sculk Slab",
+  "block.deepdarker.sculk_roots": "Sculk Roots",
+  "block.deepdarker.sculk_veins_roots": "Sculk Veins Roots"
+}

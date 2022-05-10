@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "deepdarker:copper_infuser",
+    "deepdarker:exposed_copper_infuser",
+    "deepdarker:weathered_copper_infuser",
+    "deepdarker:oxidized_copper_infuser",
+    "deepdarker:sculk_infestor"
+  ]
+}

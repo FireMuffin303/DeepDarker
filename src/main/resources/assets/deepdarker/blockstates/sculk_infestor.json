@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "lit=false,infusing=false": {
+      "model": "deepdarker:block/sculk_infestor"
+    },
+    "lit=true,infusing=false": {
+      "model": "deepdarker:block/sculk_infestor_lit"
+    },
+    "lit=true,infusing=true": {
+      "model": "deepdarker:block/sculk_infestor"
+    }
+  }
+}

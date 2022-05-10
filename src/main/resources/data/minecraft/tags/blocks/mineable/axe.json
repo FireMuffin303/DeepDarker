@@ -1,0 +1,20 @@
+{
+  "replace": false,
+  "values": [
+    "deedarker:sculk_planks",
+    "deepdarker:sculk_log",
+    "deepdarker:stripped_sculk_log",
+    "deepdarker:sculk_wood",
+    "deepdarker:stripped_sculk_wood",
+    "deepdarker:sculk_stair",
+    "deepdarker:sculk_door",
+    "deepdarker:sculk_pressure_plate",
+    "deepdarker:sculk_fence",
+    "deepdarker:sculk_trapdoor",
+    "deepdarker:sculk_fence_gate",
+    "deepdarker:sculk_button",
+    "deepdarker:sculk_slab",
+    "deepdarker:sculk_roots",
+    "deepdarker:sculk_veins_roots"
+  ]
+}

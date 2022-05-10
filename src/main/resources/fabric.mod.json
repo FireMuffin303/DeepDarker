@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "deepdarker",
+  "version": "${version}",
+  "name": "DeepDarker",
+  "description": "",
+  "authors": [
+    "FireMuffin303"
+  ],
+  "contact": {},
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "firemuffin303.deepdarker.client.DeepDarkerClient"
+    ],
+    "main": [
+      "firemuffin303.deepdarker.DeepDarker"
+    ]
+  },
+  "mixins": [
+    "DeepDarker.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.14.3",
+    "fabric": "*",
+    "minecraft": "1.19-alpha.22.18.a"
+  }
+}
